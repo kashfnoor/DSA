@@ -6,8 +6,9 @@ This program performs several mathematical operations on a dataset using recursi
 ****Features****
 -------------------
 
-**Recursive Functions used:
-**
+**Recursive Functions used:**
+
+
 Maximum Value (findmax)
 
 Minimum Value (findmin)
