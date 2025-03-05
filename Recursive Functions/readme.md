@@ -3,9 +3,11 @@
 This program performs several mathematical operations on a dataset using recursive functions. The dataset is randomly generated, and the program analyzes it by computing various statistical quantities. The program also includes functionalities for searching and sorting data within the dataset.
 -----------------------------------------------------------------------------------------------
 
-**Features**
+****Features****
+-------------------
 
-Recursive Functions used:
+**Recursive Functions used:
+**
 Maximum Value (findmax)
 
 Minimum Value (findmin)
@@ -35,6 +37,8 @@ search(usernum): Finds and returns the index of a given number in the dataset.
 -----------------------------------------------------------------------------------------------
 
 **How It Works**
+-------------------
+
 Generates datasets of different sizes.
 
 Displays the dataset before performing calculations.
@@ -52,6 +56,7 @@ Enables searching for specific numbers within the dataset.
 -----------------------------------------------------------------------------------------------
 
 **Usage**
+-------------------
 
 Compile and run the program using header and main file.
 
